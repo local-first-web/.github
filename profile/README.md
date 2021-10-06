@@ -1,5 +1,7 @@
-<img src='https://raw.githubusercontent.com/local-first-web/branding/main/svg/localfirst.svg'
+<img alt='LOCAL FIRST' src='https://raw.githubusercontent.com/local-first-web/branding/main/svg/localfirst.svg'
 height=80 />
+
+## Local-first software: Collaboration without sacrificing control
 
 💿 Traditional **installed applications** give you control over your stuff, but
 limit you to a single device, so it's clumsy to work with others. And it's your job to make sure the
@@ -10,7 +12,7 @@ use them at all when you're offline. And you no longer have control over your ow
 software provider does. You lose access to it if they go out of business. Or if they decide to
 discontinue the service. Or if there's a problem with your credit card.
 
-👍 **[Local-first](http://inkandswitch.com/local-first.html) applications give you the best of both
+👍 **[Local-first applications](http://inkandswitch.com/local-first.html) give you the best of both
 worlds:**
 
 |                          | 💿<br/>installed apps | 🌨<br/>cloud apps | 👍<br/>local-first apps |
@@ -24,7 +26,9 @@ worlds:**
 | 🌩 online backup          |          ⛔           |        ✅        |           ✅            |
 | 🔃 continuous updates    |          ⛔           |        ✅        |           ✅            |
 
-These repositories provide tools to make it easier to build secure, distributed applications in the
+---
+
+The repositories you'll find here provide tools to make it easier to build secure, distributed applications in the
 browser, with no need for a single centralized server.
 
 <table>
