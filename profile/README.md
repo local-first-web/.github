@@ -1,6 +1,3 @@
-<img alt='LOCAL FIRST' src='https://raw.githubusercontent.com/local-first-web/branding/main/svg/localfirst.svg'
-height=80 />
-
 ### Local-first software: Collaboration without sacrificing control
 
 💿 Traditional **installed applications** give you control over your stuff, but
