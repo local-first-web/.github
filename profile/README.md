@@ -25,6 +25,9 @@ worlds:**
 
 ---
 
+<img alt='LOCAL FIRST' src='https://raw.githubusercontent.com/local-first-web/branding/main/svg/localfirst.svg'
+height=80 />
+
 The repositories you'll find here provide tools to make it easier to build secure, distributed applications in the
 browser, with no need for a single centralized server.
 
