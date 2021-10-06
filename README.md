@@ -1,0 +1,3 @@
+- [@localfirst/state](https://github.com/local-first-web/state) is an automatically replicated Redux store that gives your app offline capabilities and secure peer-to-peer synchronization superpowers.
+- [@localfirst/auth](https://github.com/local-first-web/auth) provides decentralized authentication and authorization for team collaboration, using a secure chain of cryptographic signatures.
+- [@localfirst/relay](https://github.com/local-first-web/relay) is a tiny service that helps local-first applications connect with peers on other devices. It can run in the cloud or on any device with a known address.
